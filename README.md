@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -25,8 +26,13 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
