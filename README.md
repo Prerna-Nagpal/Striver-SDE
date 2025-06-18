@@ -13,11 +13,13 @@
 | [0088-merge-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -41,11 +43,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -64,4 +68,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0050-powx-n) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
