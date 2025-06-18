@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -65,6 +67,7 @@
 | [0088-merge-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
