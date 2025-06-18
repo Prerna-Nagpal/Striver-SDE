@@ -47,6 +47,7 @@
 | [0075-sort-colors](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +119,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
