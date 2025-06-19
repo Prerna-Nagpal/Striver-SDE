@@ -74,6 +74,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0234-palindrome-linked-list) |
 ## Counting
