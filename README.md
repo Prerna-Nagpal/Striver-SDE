@@ -6,6 +6,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0048-rotate-image) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -34,6 +36,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0074-search-a-2d-matrix) |
@@ -146,6 +149,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
