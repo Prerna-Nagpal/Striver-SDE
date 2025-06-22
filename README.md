@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0033-search-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0493-reverse-pairs) |
@@ -87,6 +89,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
