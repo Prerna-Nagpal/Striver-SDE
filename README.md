@@ -25,6 +25,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,6 +41,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0053-maximum-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
@@ -84,6 +87,7 @@
 | [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0658-find-k-closest-elements) |
 ## Math
@@ -119,6 +123,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -184,9 +189,15 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
