@@ -193,6 +193,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -244,10 +245,12 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0460-lfu-cache) |
+| [0937-online-stock-span](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
