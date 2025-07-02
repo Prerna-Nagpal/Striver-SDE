@@ -178,6 +178,7 @@
 | [0020-valid-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0020-valid-parentheses) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -288,4 +289,8 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1036-rotting-oranges) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
