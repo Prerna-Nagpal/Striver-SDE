@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0033-search-in-rotated-sorted-array) |
@@ -173,6 +174,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0020-valid-parentheses) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0151-reverse-words-in-a-string) |
@@ -217,6 +219,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
