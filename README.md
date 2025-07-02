@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0128-longest-consecutive-sequence) |
@@ -112,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0020-valid-parentheses) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0151-reverse-words-in-a-string) |
