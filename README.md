@@ -303,6 +303,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1036-rotting-oranges) |
 ## String Matching
@@ -317,6 +318,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -325,6 +327,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -333,5 +336,6 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
