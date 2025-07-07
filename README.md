@@ -188,6 +188,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
 | [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
@@ -230,6 +231,7 @@
 | [0039-combination-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0046-permutations) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -321,6 +324,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -328,5 +332,6 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
