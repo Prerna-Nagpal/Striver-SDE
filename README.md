@@ -37,6 +37,7 @@
 | [0493-reverse-pairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1036-rotting-oranges) |
@@ -62,6 +63,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -451,4 +453,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
