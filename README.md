@@ -145,6 +145,7 @@
 | [0048-rotate-image](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
+| [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
