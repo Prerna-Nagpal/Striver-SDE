@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0039-combination-sum) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
