@@ -50,6 +50,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@
 | [0658-find-k-closest-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
