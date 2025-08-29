@@ -81,6 +81,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1078-remove-outermost-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
