@@ -158,6 +158,7 @@
 | [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
 | [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
+| [2032-largest-odd-number-in-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
+| [2032-largest-odd-number-in-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
