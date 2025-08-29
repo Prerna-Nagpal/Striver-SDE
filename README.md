@@ -237,6 +237,7 @@
 | [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
+| [1078-remove-outermost-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [0496-next-greater-element-i](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
