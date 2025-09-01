@@ -75,6 +75,7 @@
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0496-next-greater-element-i) |
@@ -246,6 +247,7 @@
 | [0242-valid-anagram](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1078-remove-outermost-parentheses) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
