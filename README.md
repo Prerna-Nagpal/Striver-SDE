@@ -57,6 +57,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [2032-largest-odd-number-in-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2032-largest-odd-number-in-string) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -338,6 +341,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Design
 |  |
 | ------- |
@@ -511,4 +515,8 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1046-max-consecutive-ones-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
