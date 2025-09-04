@@ -23,6 +23,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -193,6 +194,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 ## Recursion
@@ -304,6 +306,7 @@
 | [0037-sudoku-solver](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
 ## Trie
