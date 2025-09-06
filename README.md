@@ -522,4 +522,8 @@
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
