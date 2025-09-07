@@ -40,6 +40,7 @@
 | [0239-sliding-window-maximum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0496-next-greater-element-i) |
@@ -105,6 +106,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
 |  |
