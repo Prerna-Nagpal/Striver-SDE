@@ -43,6 +43,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0560-subarray-sum-equals-k) |
@@ -107,6 +108,7 @@
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0494-target-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -311,6 +313,7 @@
 | [0090-subsets-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
