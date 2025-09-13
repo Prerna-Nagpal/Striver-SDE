@@ -107,6 +107,7 @@
 | [0118-pascals-triangle](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0322-coin-change) |
@@ -256,6 +257,7 @@
 | [0020-valid-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0038-count-and-say) |
+| [0132-palindrome-partitioning-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0165-compare-version-numbers) |
