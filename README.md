@@ -39,6 +39,7 @@
 | [0229-majority-element-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
@@ -108,6 +109,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0518-coin-change-ii) |
@@ -403,6 +405,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
