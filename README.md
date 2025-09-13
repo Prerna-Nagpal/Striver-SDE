@@ -113,6 +113,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
@@ -263,6 +264,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0451-sort-characters-by-frequency) |
+| [0583-delete-operation-for-two-strings](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1250-longest-common-subsequence) |
