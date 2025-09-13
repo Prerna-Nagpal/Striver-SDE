@@ -113,6 +113,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -264,6 +265,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1250-longest-common-subsequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
