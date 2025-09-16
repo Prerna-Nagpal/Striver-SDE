@@ -106,6 +106,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@
 | [0048-rotate-image](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
@@ -551,4 +553,8 @@
 |  |
 | ------- |
 | [1827-invalid-tweets](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1827-invalid-tweets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
