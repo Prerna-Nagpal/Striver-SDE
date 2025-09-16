@@ -56,6 +56,7 @@
 | [0658-find-k-closest-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0907-koko-eating-bananas) |
+| [0967-minimum-falling-path-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1046-max-consecutive-ones-iii) |
@@ -103,6 +104,7 @@
 | [0063-unique-paths-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0074-search-a-2d-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -126,6 +128,7 @@
 | [0494-target-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0583-delete-operation-for-two-strings) |
+| [0967-minimum-falling-path-sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
