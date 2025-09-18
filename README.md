@@ -114,6 +114,7 @@
 | [0062-unique-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -273,6 +274,7 @@
 | [0020-valid-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0151-reverse-words-in-a-string) |
