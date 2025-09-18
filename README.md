@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0063-unique-paths-ii) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0206-reverse-linked-list) |
@@ -275,6 +277,7 @@
 | [0020-valid-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0132-palindrome-partitioning-ii) |
@@ -334,6 +337,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
