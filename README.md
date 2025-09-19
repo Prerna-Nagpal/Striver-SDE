@@ -70,6 +70,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1646-kth-missing-positive-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -145,6 +146,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0658-find-k-closest-elements](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Math
