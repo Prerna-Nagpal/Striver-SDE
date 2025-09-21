@@ -453,6 +453,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -512,6 +513,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -589,4 +591,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
