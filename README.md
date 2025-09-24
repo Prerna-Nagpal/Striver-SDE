@@ -39,6 +39,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -159,6 +160,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0295-find-median-from-data-stream) |
@@ -209,6 +211,7 @@
 | [0060-permutation-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1014-k-closest-points-to-origin) |
 | [2032-largest-odd-number-in-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2032-largest-odd-number-in-string) |
