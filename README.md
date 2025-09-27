@@ -591,6 +591,7 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0584-find-customer-referee) |
 | [1827-invalid-tweets](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1827-invalid-tweets) |
 ## Combinatorics
 |  |
