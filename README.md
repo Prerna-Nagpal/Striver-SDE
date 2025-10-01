@@ -153,6 +153,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0075-sort-colors) |
@@ -325,6 +326,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0116-populating-next-right-pointers-in-each-node) |
