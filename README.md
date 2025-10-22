@@ -75,6 +75,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2227-sum-of-subarray-ranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Hash Table
@@ -360,6 +361,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1078-remove-outermost-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -448,6 +450,7 @@
 | [0937-online-stock-span](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/2227-sum-of-subarray-ranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
