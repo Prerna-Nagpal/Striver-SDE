@@ -35,6 +35,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Prerna-Nagpal/Striver-SDE/tree/master/0342-power-of-four) |
 ## Recursion
